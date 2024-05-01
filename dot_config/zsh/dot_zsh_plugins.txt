@@ -1,0 +1,17 @@
+# Prompt
+romkatv/powerlevel10k
+
+# omz goodies
+ohmyzsh/ohmyzsh path:lib/completion.zsh
+ohmyzsh/ohmyzsh path:plugins/systemd
+zsh-users/zsh-completions
+ohmyzsh/ohmyzsh path:plugins/ssh-agent
+
+# highlight incorrect/correct commands while typing
+zsh-users/zsh-syntax-highlighting
+
+# search history with partial input
+zsh-users/zsh-history-substring-search
+
+# show suggestions while typing
+zsh-users/zsh-autosuggestions

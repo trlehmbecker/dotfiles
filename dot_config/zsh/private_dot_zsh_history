@@ -1,0 +1,67 @@
+echo $ZDOTDIR
+chezmoi apply -v
+brew
+ls -al
+cat .zprofile
+cd .config/zsh
+chezmoi cd
+brew
+which antidote
+brew list
+antidote
+echo $HOMEBREW_PREFIX
+git status
+git status
+cd ~
+ls
+chezmoi add .config/zsh
+chezmoi diff
+chezmoi cd
+chezmoi diff
+clear
+chezmoi cd
+cat ../Brewfile
+code ../Brewfile
+cd ..
+brew bundle
+brew bundle
+chezmoi diff
+chezmoi cd
+git status
+cd ..
+chezmoi remove .config/iterm/com.googlecode.iterm2.plist
+ls
+brew bundle
+nvm
+nvm -h
+nvm list
+nvm install lts/iron
+clear
+chezmoi diff
+chezmoi cd
+git status
+which git
+brew install git
+which git
+git status
+code .
+git status
+cd ~
+chezmoi diff
+chezmoi -v apply
+clear
+cd chezmoi
+chezmoi cd
+ls
+cd dot_config
+ls
+cd iterm
+ls
+cd ..
+cd ..
+rm -rf .config
+cd ~
+chezmoi diff
+chezmoi add .config/iterm
+chezmoi doctor
+chezmoi cd
